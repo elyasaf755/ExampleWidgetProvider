@@ -16,3 +16,5 @@ static const GUID widget_provider_clsid =
 9. Click the "+" icon to add a widget
 10. Add the counter widget
 
+![Counter Widget example](https://github.com/elyasaf755/ExampleWidgetProvider/blob/master/CounterWidget.png)
+
