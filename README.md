@@ -3,7 +3,7 @@
 ## How to install
 1. Open the project in VS 2022
 2. Tools->Create GUID
-3. Select the option "static const GUID =" and click Copy and then paste that into main.cpp, replacing the following code:<br>
+3. Select the option "static const GUID =", click on `Copy` and then paste that into main.cpp, replacing the following code:<br>
 `// {838F706D-3C55-48AC-8190-45DD8CAE29B1}<br>
 static const GUID widget_provider_clsid =
 { 0x838f706d, 0x3c55, 0x48ac, { 0x81, 0x90, 0x45, 0xdd, 0x8c, 0xae, 0x29, 0xb1 } };`<br>
